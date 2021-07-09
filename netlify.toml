@@ -1,4 +1,0 @@
-[build]
-base = "pokemon-react-project/"
-publish = "pokemon-react-project/build/"
-command = "npm run build"
