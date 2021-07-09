@@ -1,0 +1,4 @@
+[build]
+base = "pokemon-react/"
+publish = "pokemon-react/build/"
+command = "npm run build"
